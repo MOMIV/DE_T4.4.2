@@ -25,7 +25,7 @@
 
 код загрузки файлов на hdfs
 
-код всех запросов для создания таблиц и план запроса для формирования витрины.
+код всех запросов для создания таблиц и план запроса для для формирования витрины.
 
 
 Решение
@@ -39,6 +39,13 @@
 ![Image alt](https://github.com/MOMIV/DE_T4.4.2/raw/main/pic/2.png)
 
 ![Image alt](https://github.com/MOMIV/DE_T4.4.2/raw/main/pic/3.png)
+
+3. [Код всех запросов для создания таблиц](https://github.com/MOMIV/DE_T4.4.2/blob/main/T442.sql)
+
+4. [Результат формирования витрины](https://github.com/MOMIV/DE_T4.4.2/blob/main/mart.csv)
+
+5. [План запроса для для формирования витрины](https://github.com/MOMIV/DE_T4.4.2/blob/main/explain.csv)
+
 
  
 
